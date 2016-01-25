@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[David Stone]]></title>
+        <description><![CDATA[David Stone]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 25 Jan 2016 18:58:53 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to my new website]]></title>
+            <description><![CDATA[<article><h1>Welcome to my new website</h1><p>Needless to say, I'm pretty excited!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ecb45ab2cd4494c812047fb55b9c7cd9998b35bb.jpg"></article>]]></description>
+            <link>undefinedwelcome-to-my-new-website/index.html</link>
+            <guid isPermaLink="false">00b92138-616e-4f07-9d49-a5089de027df</guid>
+            <pubDate>Mon, 25 Jan 2016 18:58:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
